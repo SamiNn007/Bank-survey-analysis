@@ -1,0 +1,40 @@
+Age,Education,Marital status,Location,Occupation,Bank Name,Preferred Service Channel,Preferred contact,Customer service response time,Service Quality,Likelihood to recommend,Likelihood to continue,Age_group,Areas_of_Improvement,Bank Selection
+19,Bachelors,Single,Europe,Student,Millennium BCP,Mobile banking app,Telephone,15,4,Yes,5,Young,Customer service,Multiple branches
+22,Bachelors,Single,Europe,Services,Swedbank ,Mobile banking app,Telephone,5,5,Yes,5,Young,Product range offered,Customer service
+22,Bachelors,Single,Europe,Self-employed,Millenium BCP,Online banking,In person (at the branch),20,4,Yes,4,Young,Customer service,Proximity
+25,Masters,Single,Europe,Services,Crédito Agrícola ,Mobile banking app,Telephone,7,4,Yes,5,Young,Customer service,Multiple branches
+21,Bachelors,Single,Africa,Services,GTB,Mobile banking app,Telephone,5,3,Yes,4,Young,Product range offered,Customer service
+38,PHD,Married,Europe,Manager,Millennium bcp,Mobile banking app,Telephone,5,5,Yes,5,Old,,Customer service
+24,Bachelors,Single,Europe,Student,Bank of Scotland ,Mobile banking app,Email,5,5,Yes,5,Young,Easy credit/loans,Customer service
+46,Masters,Married,Europe,Manager,"CGD, BPI, Santander, moey, activobank",Online banking,Email,10,3,Yes,3,Old,Product range offered,Products offered
+24,High school Diploma,Single,Europe,Student,CGD,Online banking,Telephone,5,4,Yes,4,Young,Customer service,Multiple branches
+25,Bachelors,Single,Europe,Services,Santander Totta,Branch banking,In person (at the branch),2,4,Yes,5,Young,Customer service,Customer service
+21,Bachelors,Single,Europe,Services,Novo banco,Bank ATM,In person (at the branch),5,4,Yes,5,Young,Product range offered,Customer service
+37,Masters,Married,Europe,Technician,BCP,Mobile banking app,Telephone,5,4,Yes,4,Old,Proper information about products,Customer service
+26,Bachelors,Single,Europe,Student,Santander ,Mobile banking app,Email,10,5,Yes,5,Young,Easy credit/loans,Multiple branches
+34,Masters,Married,Europe,Student,Caixa Directa,Mobile banking app,Telephone,60,4,Yes,4,Middle-aged,Net banking,Customer service
+29,Masters,Single,Europe,Unemployed,LCL + Revolut,Mobile banking app,Email,1440,3,No,3,Middle-aged,Product range offered,Customer service
+29,Bachelors,Single,Europe,Student,Millenium,Mobile banking app,Telephone,5,4,Yes,4,Middle-aged,Easy credit/loans,Customer service
+33,Bachelors,Single,Europe,Self-employed,Wise,Mobile banking app,Email,1440,4,Yes,5,Middle-aged,Product range offered,Multiple branches
+35,Bachelors,Married,North America,Technician,Local,Online banking,In person (at the branch),0,5,Yes,5,Middle-aged,Nothing,Customer service
+20,High school Diploma,Single,Europe,Student,Caixa Geral de Depósitos,Mobile banking app,Email,1,4,Yes,4,Young,Proper information about products,Products offered
+20,High school Diploma,Single,Europe,Student,ativo bank,Bank ATM,Telephone,60,4,Yes,5,Young,Customer service,Customer service
+23,Bachelors,Single,Europe,Services,CGD,Mobile banking app,Email,30,2,No,3,Young,Customer service,Customer service
+19,High school Diploma,Single,Europe,Student,Crédito Agrícola,Mobile banking app,Telephone,10,5,Yes,5,Young,Product range offered,Customer service
+22,High school Diploma,Single,Europe,Student,UniCredit,Mobile banking app,Email,10,4,Yes,4,Young,Proper information about products,Customer service
+27,Bachelors,Single,Europe,Administrative,CGD,Mobile banking app,Telephone,25,3,Yes,3,Middle-aged,Product range offered,Multiple branches
+22,High school Diploma,Single,Europe,Unemployed,UNFCU,Bank ATM,Telephone,25,2,No,3,Young,Customer service,Proximity
+30,Bachelors,Single,North America,Student,Chase,Mobile banking app,Telephone,15,5,Yes,5,Middle-aged,Net banking,Customer service
+28,Bachelors,Single,Europe,Services,ActivoBank,Mobile banking app,Telephone,5,5,Yes,5,Middle-aged,None,Customer service
+41,Masters,Single,Europe,Services,BPI,Mobile banking app,Telephone,5,4,Yes,4,Old,Net banking,Customer service
+29,Bachelors,Married,Europe,Manager,ing,Mobile banking app,Telephone,15,3,Yes,4,Middle-aged,Proper information about products,Customer service
+31,Masters,Single,Europe,Administrative,Swedbank ,Online banking,Telephone,20,4,Yes,5,Middle-aged,Net banking,Customer service
+26,Masters,Married,Europe,Self-employed,Luminor,Mobile banking app,Email,16,4,Yes,3,Young,Easy credit/loans,Multiple branches
+27,Masters,Single,Europe,Blue collar,Crefito Geral de Depositos,Bank ATM,In person (at the branch),30,2,No,3,Middle-aged,Customer service,Customer service
+22,High school Diploma,Single,Europe,Services,Ctt,Mobile banking app,Telephone,1440,3,Yes,4,Young,Customer service,Customer service
+21,High school Diploma,Single,Europe,Student,Revolut,Mobile banking app,Telephone,10,4,Yes,4,Young,Customer service,Customer service
+31,Bachelors,Single,Europe,Services,Banco Portugues de Investimento,Mobile banking app,In person (at the branch),30,1,Yes,5,Middle-aged,Customer service,Customer service
+29,Bachelors,Single,Europe,Student,BiG,Online banking,Email,2,4,Yes,4,Middle-aged,Proper information about products,Customer service
+33,Bachelors,Single,North America,Student,Fifth Third Bank ,Mobile banking app,In person (at the branch),2,5,Yes,5,Middle-aged,Easy credit/loans,No maintenance fees
+35,High school Diploma,Married,Europe,Administrative,Barclays ,Branch banking,Telephone,5,3,Yes,5,Middle-aged,Customer service,Multiple branches
+17,Gymnasium,Single,Europe,Student,Nordea,Mobile banking app,Email,10,4,Yes,5,Young,Customer service,Customer service
